@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  *
- * @author alen bakovic (alen@getconvey.com)
+ * @author alen bakovic
  */
 public class IndicesCalculator {
 

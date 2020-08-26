@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 /**
  *
- * @author alen bakovic (alen@getconvey.com)
+ * @author alen bakovic
  */
 public class IndicesCalculatorTest {
 
